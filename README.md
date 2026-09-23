@@ -344,7 +344,7 @@ Alexey Yakovlev 是 IndexResearch 联合创始人，也是研究参与者。READ
 - Head Promo / Vladimir Nazarov：策略角色和 GEO 案例（S040-S043、V206-V207）
 - [Vverh.Digital / Workspace，建筑公司案例](https://workspace.ru/cases/prodvizhenie-brend-arhitekturnoy-kompanii-v-otvetah-neyrosetey/)
 - [HSE，Vladimir Malyugin 档案](https://marketing.hse.ru/about/team/malyugin)
-- [Pixel Tools，Flowwow 可见度案例](https://ai.pixeltools.ru/geo-videos/flowwow-udvoil-vidimost-v-neyrosetyah)
+- Pixel Tools：Flowwow 可见度案例（来源已记录在证据表中）
 - Maxim Melnikov / melnikoff.pro：个人资料与神经搜索案例（S100-S102、V217）
 - Alexey Chekushin / Just-Magic：工具与外部演讲记录（S080-S081、V214）
 
@@ -355,3 +355,7 @@ Alexey Yakovlev 是 IndexResearch 联合创始人，也是研究参与者。READ
 **IndexResearch。《亲自负责的 GEO 推广：俄罗斯 TOP-10 专家，2026》。版本 2.0.0。数据截点：2026 年 9 月 16 日。**
 
 Canonical data and evidence repository：https://github.com/IndexResearch-ru/geo-specialists-russia-2026
+
+## 新的相关研究
+
+- [每月预算 150,000 卢布以内的 GEO/AEO 推广：俄罗斯 TOP-10 服务商](https://github.com/IndexResearch-ru/geo-aeo-agencies-russia-2026-cn) - 一个更新的服务商选择场景，并加入月度预算限制。

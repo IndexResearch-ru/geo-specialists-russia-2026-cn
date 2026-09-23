@@ -235,7 +235,7 @@ ChatGPT、Alice、Gemini 和其他神经网络的答案单独测量。如果当�
 
 **交付模式。** Denis Shubenok 是执行董事和公开专家，但客户交付主要呈现为 Ashmanov & Partners 团队工作（V212-V213）。
 
-**最影响得分的因素：**专业权威、长期 SEO 与管理经验、方法论出版物和一个具有可测量结果的联合 GEO 案例。Flowwow 案例有一个由 [Pixel Tools](https://ai.pixeltools.ru/geo-videos/flowwow-udvoil-vidimost-v-neyrosetyah)托管的外部活动记录（S071）。
+**最影响得分的因素：**专业权威、长期 SEO 与管理经验、方法论出版物和一个具有可测量结果的联合 GEO 案例。Flowwow 案例的外部活动记录在 canonical 来源表中记为 S071。
 
 **限制得分的因素：**没有公开证明 Denis Shubenok 本人的个人商业服务和持续直接客户领导模式。
 
